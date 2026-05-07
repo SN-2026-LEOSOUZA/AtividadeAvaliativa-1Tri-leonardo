@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-05-07T11:00:56.499065+00:00",
+  "updated_at": "2026-05-07T11:04:06.854532+00:00",
   "airport_icao": "SBCA",
   "airport_name": "Cascavel",
   "source": "AviationStack",
   "arrivals": [
+    {
+      "callsign": "AD4586",
+      "airline": "Azul Linhas Aéreas Brasileiras",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-05-07T10:00:00+00:00",
+      "time_iso": "2026-05-07T10:00:00+00:00",
+      "status": "em voo"
+    },
     {
       "callsign": "LA3858",
       "airline": "LATAM Airlines",
